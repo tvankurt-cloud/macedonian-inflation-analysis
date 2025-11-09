@@ -1,0 +1,33 @@
+ North Macedonia Economic Analysis Summary
+ Based on IMF GVAR Model Study 2025
+
+ Key Findings
+
+1. **External Shock Impact**
+   - Western Balkan economies faced multiple external shocks
+   - Increasing integration with European Union observed
+   - North Macedonia shows highest sensitivity to spillovers
+
+2. **Economic Integration Effects**
+   - Significant impact from Euro area real shocks
+   - Strong influence on economic activity and trade
+   - Deep integration into European global value chains
+
+3. **Monetary and Financial Impacts**
+   - Financial shock effects moderated by:
+     * Financial depth
+     * Integration levels
+   - Both conventional and unconventional monetary policies affect:
+     * Economic activity
+     * Inflation rates
+
+4. **Inflation Drivers**
+   - Global energy commodity prices identified as major factors
+   - Monetary policy effectiveness varies with autonomy level
+
+### Data Sources
+- [IMF Selected Issues Papers (2025)]
+  (https://www.imf.org/en/Publications/selected-issues-papers/Issues/2025/05/22/Impact-of-International-Shocks-on-North-Macedonia-and-the-Western-Balkans-Republic-of-North-567136)
+- GVAR Model Analysis Results
+
+*Last Updated: November 9, 2025*
