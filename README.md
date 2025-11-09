@@ -1,6 +1,3 @@
-# Macedonian Inflation Forecast (2016–2026)
-
-![Run Inflation Analysis](https://github.com/tvankurt-cloud/macedonian-inflation-forecast/actions/workflows/run-analysis.yml/badge.svg)
 
 # Macedonian Inflation Forecast (2016–2026)
 
